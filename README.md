@@ -22,7 +22,9 @@ However, everyday trade faces major challenges:
 - Lack of transparency in daily commodity prices  
 - Unfair negotiations due to information asymmetry  
 - Dependence on middlemen  
-- Limited access to digital tools in regional languages  
+- Limited access to digital tools in regional languages
+- Difficulty for foreign tourists to communicate in local mandis, limiting authentic cultural experiences
+  
 
 These issues reduce income for small vendors and weaken trust in local trade systems.
 
@@ -30,7 +32,7 @@ These issues reduce income for small vendors and weaken trust in local trade sys
 
 ## 💡 Solution Overview
 
-**Bhāṣāvid** is a multilingual AI-powered trade companion designed to act as a **real-time linguistic and economic bridge** for Indian local markets.
+**Bhāṣāvid** is a multilingual AI-powered trade companion designed to act as a **real-time linguistic and economic bridge** for Indian local markets. Bhāṣāvid supports both Indian citizens and international visitors, making local markets accessible to everyone regardless of language.
 
 The platform enables:
 
@@ -43,12 +45,35 @@ Bhāṣāvid prioritizes **inclusion, transparency, and dignity** in everyday co
 
 ---
 
+## 🇮🇳 Digital India × Tourism India
+
+Bhāṣāvid brings together two national priorities:
+
+**Digital India** — by empowering grassroots markets with AI  
+**Tourism India** — by enabling global visitors to interact confidently with local communities.
+
+By removing language barriers at the most local level, Bhāṣāvid transforms mandis into spaces of:
+
+- 🤝 Inclusion  
+- 🔍 Trust  
+- 🌏 Cultural exchange  
+- 💬 People-to-people communication  
+
+This approach strengthens India’s digital public infrastructure while simultaneously promoting authentic tourism experiences.
+
+
 ## ✨ Key Features
 
 ### 🌐 Multilingual Communication
 - Real-time translation between Indian and international languages  
 - Automatic language detection  
-- Culturally appropriate phrasing  
+- Culturally appropriate phrasing
+
+### 🌍 International Tourism Enablement
+- Supports global languages such as French, German, Italian, Japanese, Chinese, Thai, and Vietnamese  
+- Enables foreign tourists to interact directly with local vendors  
+- Promotes authentic mandi experiences without language barriers  
+- Encourages cultural exchange and local economic participation  
 
 ### 🎙 Voice + Text Interaction
 - Users can type or speak naturally  
@@ -225,7 +250,7 @@ Bhāṣāvid empowers:
 - Farmers with price transparency  
 - Small vendors with fair negotiations  
 - Buyers with informed decisions  
-- Tourists with language accessibility  
+- Enhances India’s local market accessibility for international tourists
 
 It bridges not just languages —  
 but **economic opportunity gaps**.
